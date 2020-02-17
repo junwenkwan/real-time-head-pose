@@ -15,3 +15,14 @@ python3 run_inference.py --pretrained [PRETRAINED_MODEL]
 ```bash
 python3 test_on_video.py --pretrained [PRETRAINED_MODEL] --video [VIDEO] --output_string [NAME] --fps 30
 ```
+
+## Requirements
+* numpy
+* pytorch
+* torchvision 
+* opencv2
+* pillow
+* [mtcnn](https://github.com/ipazc/mtcnn)
+```bash
+pip3 install mtcnn
+```
