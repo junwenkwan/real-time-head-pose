@@ -4,7 +4,7 @@ A PyTorch implementation of real-time head pose estimation. The original work ca
 Download the pretrained model [here](https://drive.google.com/file/d/1kY2nfpnFsows14TLKTOd-8PYftOAeomh/view?usp=sharing).
 
 <div align="center">
-<img src="./teaser/Screenshot.png" height="400"/><br>
+<img src="./teaser/Screenshot.png" width="500"/><br>
 </div>
 
 ## Quickstart
