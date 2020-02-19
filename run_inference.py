@@ -41,8 +41,6 @@ if __name__ == '__main__':
         # Print new frame with cube and axis
         utils.draw_axis(frame, predictions[0], predictions[1], predictions[2], tdx = (face_keypoints[0] + face_keypoints[2]) / 2, tdy= (face_keypoints[1] + face_keypoints[3]) / 2, size = w/2)
 
-        # bounding_box = d['box']
-
         cv2.rectangle(frame,(bounding_box[0], bounding_box[1]), \
                       (bounding_box[0]+bounding_box[2], bounding_box[1] + bounding_box[3]), \
                       (140,255,255), 3)
