@@ -1,7 +1,9 @@
 # Real-Time Head Pose Estimation
-A PyTorch implementation of real-time head pose estimation. The original work can be found [here](https://github.com/natanielruiz/deep-head-pose). However, instead of using dlib, mtcnn is implemented to detect faces. 
-
-Download the pretrained model [here](https://drive.google.com/file/d/1kY2nfpnFsows14TLKTOd-8PYftOAeomh/view?usp=sharing) from my Google drive.
+* A PyTorch implementation of real-time head pose estimation. 
+* The original work can be found [here](https://github.com/natanielruiz/deep-head-pose). 
+* However, instead of using dlib, mtcnn is implemented to detect faces. 
+* Download the pretrained model [here](https://drive.google.com/file/d/1kY2nfpnFsows14TLKTOd-8PYftOAeomh/view?usp=sharing) from my Google drive.
+* This is part of my summer research project at Monash University.
 
 <div align="center">
 <img src="./teaser/Screenshot.png" width="500"/><br>
