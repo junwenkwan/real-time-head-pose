@@ -28,3 +28,6 @@ python3 test_on_video.py --pretrained [PRETRAINED_MODEL] --video [VIDEO] --outpu
 ```bash
 pip3 install mtcnn
 ```
+
+## Credits
+* [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose)
